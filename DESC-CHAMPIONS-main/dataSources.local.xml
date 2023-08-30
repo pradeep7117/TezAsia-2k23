@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="CL-232.8660.186">
+    <data-source name="@localhost" uuid="a026de85-2ee0-4961-b130-a2bccb2f2961">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="CASSANDRA" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>pradeep</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" negative="1" />
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
